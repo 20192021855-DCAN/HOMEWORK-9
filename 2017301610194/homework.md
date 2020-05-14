@@ -36,6 +36,7 @@ y-z-w-x-v-u
 
 ## 习题2
 
+
 x to z:
 
 x-y-z
@@ -57,6 +58,7 @@ x-u-w-y-z
 x-u-v-w-z
 
 x-u-v-w-y-z
+
 
 
 z to u:
@@ -92,6 +94,7 @@ z-y-w-x-u
 z-y-w-v-x-u
 
 z-y-w-x-v-u
+
 
 
 z to w:

@@ -9,7 +9,7 @@
 <tr><td>3</td><td>xvuw</td><td>7,v</td><td></td><td></td><td></td><td>6,x</td><td>8,x</td> </tr>
 <tr><td>4</td><td>xvuwy</td><td>7,v</td><td></td><td></td><td></td><td></td><td>8,x</td> </tr>
 <tr><td>5</td><td>xvuwyt</td><td></td><td></td><td></td><td></td><td></td><td>8,x</td> </tr>
-<tr><td>6</td><td>xvuwyt</td><td></td><td></td><td></td><td></td><td></td><td></td> </tr>
+<tr><td>6</td><td>xvuwytz</td><td></td><td></td><td></td><td></td><td></td><td></td> </tr>
 </table>
 最短路径</br>
 t:x-v-t  7</br>
